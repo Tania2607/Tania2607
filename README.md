@@ -28,6 +28,8 @@ Hi there! I'm a passionate Software Developer currently pursuing B.Tech in Infor
 - 📄 [View My Resume](https://drive.google.com/file/d/115c3JCQBYKoAk3cQugS74BBl-dY2u1SN/view?usp=drivesdk )
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=tania1234&style=flat-square)
+
 
 💡 *Feel free to check out my projects, fork them, and share feedback. I'm always open to learning and growing!*
   
