@@ -18,7 +18,7 @@ Currently, I’m diving deeper into the *MERN Stack* and exploring full-stack de
 ## 🔧 Currently Working On
 
 💼 *MERN Income & Expense Tracker*  
-A personal finance management app with user login, category tracking, chart visualizations, and responsive UI.
+A personal finance management app with user login, category tracking, chart visualizations, and responsive UI. <br>
 💼 *Portfolio Website*
 A personal portfolio built with React showcasing projects, skills, and contact info with responsive design and smooth navigation.
 ---
