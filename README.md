@@ -80,7 +80,7 @@ Currently, I’m diving deeper into the *MERN Stack* and exploring full-stack de
 ## 📫 Let's Connect!
 
 - 📧 Email: [26tania513@gmail.com](mailto:26tania513@gmail.com)  
-- 🔗 [View My Resume](https://drive.google.com/file/d/115c3JCQBYKoAk3cQugS74BBl-dY2u1SN/view?usp=drivesdk)  
+- 🔗 [View My Resume](https://drive.google.com/file/d/1epQbGIMOhrufdccpVUYXDwsssvAdI1NM/view?usp=drivesdk))  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tania-68668a349/)  
 - 💻 [GitHub](https://github.com/Tania2607)
 
