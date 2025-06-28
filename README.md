@@ -5,6 +5,11 @@
 
 ---
 
+## 🌐 Live Portfolio
+
+Check out my live portfolio website here:  
+🔗 [https://taniaportfolio07.netlify.app](https://taniaportfolio07.netlify.app)
+
 # 👩‍💻 About Me
 
 Hi there! I'm a passionate Software Developer currently pursuing *B.Tech in Information Technology*.  
@@ -12,11 +17,6 @@ I enjoy building responsive, real-world web applications with clean UIs and mean
 Currently, I’m diving deeper into the *MERN Stack* and exploring full-stack development.  
 
 > "Coding is the art of giving life to ideas through logic." ✨
-
----
-
-<h4> 💼 E-Commerce Website<br> A fully responsive e-commerce platform built with React, featuring product listings, category-based filtering, detailed product pages, shopping cart functionality, and smooth user navigation for a seamless online shopping experience. </h4>
----
 
 ## 🌱 Learning & Exploring
 
