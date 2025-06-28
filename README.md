@@ -15,10 +15,7 @@ Currently, I’m diving deeper into the *MERN Stack* and exploring full-stack de
 
 ---
 
-## 🔧 Currently Working On
-<h4>
-💼 Portfolio Website<br>
-A personal portfolio built with React showcasing projects, skills, and contact info with responsive design and smooth navigation.</h4>
+<h4> 💼 E-Commerce Website<br> A fully responsive e-commerce platform built with React, featuring product listings, category-based filtering, detailed product pages, shopping cart functionality, and smooth user navigation for a seamless online shopping experience. </h4>
 ---
 
 ## 🌱 Learning & Exploring
