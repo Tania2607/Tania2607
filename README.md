@@ -18,6 +18,11 @@ Currently, I’m diving deeper into the *MERN Stack* and exploring full-stack de
 
 > "Coding is the art of giving life to ideas through logic." ✨
 
+## 🚧 Currently Working On
+
+I'm currently building an **E-Commerce website using React** – focused on clean design, responsive layout, and smooth user experience.
+
+
 ## 🌱 Learning & Exploring
 
 - ⚛ React.js & Component-Based Architecture  
