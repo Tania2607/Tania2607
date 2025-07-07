@@ -74,14 +74,6 @@ I'm currently building an **E-Commerce website using React** – focused on clea
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tania2607&layout=compact&theme=gruvbox" height="180"/>
-</p>
-
----
-
 ## 📫 Let's Connect!
 
 - 📧 Email: [26tania513@gmail.com](mailto:26tania513@gmail.com)  
