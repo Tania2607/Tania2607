@@ -64,6 +64,8 @@ I'm currently building an **E-Commerce website using React** – focused on clea
 
 | 🧾 Certificate | 📚 Platform | 🗓 Year |
 |----------------|-------------|---------|
+| Introduction to GenAI and Prompting | Lets upGrade | 2025 |
+| React Bootcamp | Lets Upgrade | 2025 |
 | Full Stack Web Development | IBM – Coursera | 2025 |
 | Introduction to React | IBM – Coursera | 2025 |
 | Use of Generative AI | IBM – Coursera | 2025 |
