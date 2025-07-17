@@ -18,10 +18,15 @@ Currently, I’m diving deeper into the *MERN Stack* and exploring full-stack de
 
 > "Coding is the art of giving life to ideas through logic." ✨
 
-## 🚧 Currently Working On
+---
 
-I'm currently building an **E-Commerce website using React** – focused on clean design, responsive layout, and smooth user experience.Almost done on this one
+## 🚀 Latest Project
 
+I’ve recently completed an **E-Commerce website using React** – built with clean design, responsive layout, and localStorage-based cart, wishlist, and auth.  
+🔗 **Live**: [https://tania-shopease.netlify.app](https://tania-shopease.netlify.app)  
+📁 **Code**: [GitHub Repo](https://github.com/Tania2607/E-Commerce_)
+
+---
 
 ## 🌱 Learning & Exploring
 
@@ -53,6 +58,7 @@ I'm currently building an **E-Commerce website using React** – focused on clea
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🛒 [E-Commerce Frontend](https://github.com/Tania2607/E-Commerce_)<br>[🌐 Live Demo](https://tania-shopease.netlify.app) | Fully responsive shopping site with localStorage-based login, cart, and wishlist | React, Redux, Vite |
 | 🔐 [Password Strength Checker](https://github.com/Tania2607/Password_validation) | Real-time feedback for strong passwords | React, CSS |
 | 💰 [Finance Tracker](https://github.com/Tania2607/Finance_manager) | Track daily expenses with login and charts | MERN |
 | 🔍 [GitHub Profile Finder](https://github.com/Tania2607/Github_Profile_Finder) | GitHub API-based user finder | HTML, CSS, JS |
@@ -79,7 +85,7 @@ I'm currently building an **E-Commerce website using React** – focused on clea
 ## 📫 Let's Connect!
 
 - 📧 Email: [26tania513@gmail.com](mailto:26tania513@gmail.com)  
-- 🔗 [View My Resume](https://drive.google.com/file/d/1epQbGIMOhrufdccpVUYXDwsssvAdI1NM/view?usp=drivesdk))  
+- 🔗 [View My Resume](https://drive.google.com/file/d/1epQbGIMOhrufdccpVUYXDwsssvAdI1NM/view?usp=drivesdk)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tania-68668a349/)  
 - 💻 [GitHub](https://github.com/Tania2607)
 
